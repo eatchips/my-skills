@@ -1,0 +1,6 @@
+interface:
+  display_name: "Frontend Prompt Refiner"
+  short_description: "Polish dev prompts with frontend engineering rigor"
+  default_prompt: "Use $frontend-prompt-refiner to rewrite this rough frontend development request into an implementation-ready prompt."
+policy:
+  allow_implicit_invocation: true
